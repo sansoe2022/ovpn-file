@@ -28,10 +28,6 @@
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-FREE.ovpn"
       },
 
-{
-         "name": "06.SG_DtacNoPro_FREE2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/01.SG_DtacNoPro_FREE.ovpn"
-      },
 
 
 
@@ -42,10 +38,7 @@
 
 
 
-{
-         "name": "08.SG_Dtac90days_FREE2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/02.SG_Dtac90days_FREE.ovpn"
-      },
+
 
 
 
@@ -55,10 +48,7 @@
       },
 
 
-{
-         "name": "10.SG_DtacLINE12_FREE2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/03.SG_DtacLINE12_FREE.ovpn"
-      },
+
 
 
 
@@ -68,10 +58,7 @@
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-FREE.ovpn"
       },
 
-{
-         "name": "12.SG_TrueNoPro_FREE2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/04.SG_TrueNoPro_FREE.ovpn"
-      },
+
 
 
 
@@ -183,7 +170,7 @@
       }
 
    ],
-"message":"🚀 Update config version - 13 \n📆 Latest update - June 24 2022\n \n📌What's new \n• Added SG server 🇸🇬 \n• Added TH server 🇹🇭\n • Added US server🇺🇸 \n \n📌VIP account \n• 1 month - 40 baht 💰 \n• Data transfer - Unlimited✅ \n• 1 Device - 1 account \nContact me👇\nhttps://m.me/sansoe2021  \n \nThank you for your support us❤️",
+"message":"🚀 Update config version - 14 \n📆 Latest update - June 30 2022\n \n📌What's new \n• Added SG server 🇸🇬 \n• Added TH server 🇹🇭\n • Added US server🇺🇸 \n \n📌VIP account \n• 1 month - 40 baht 💰 \n• Data transfer - Unlimited✅ \n• 1 Device - 1 account \nContact me👇\nhttps://m.me/sansoe2021  \n \nThank you for your support us❤️",
    "title":"Do you want to update?",
-   "version": 13
+   "version": 14
 }
