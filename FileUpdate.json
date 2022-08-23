@@ -3,281 +3,171 @@
    "files": [  
 
 {
-         "name": "01. SG-DtacNoPro-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-FREE.ovpn"
+         "name": "SG-DtacNoPro-FREE",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/SG-DtacAllPro-FREE.ovpn"
       },
 
 {
-         "name": "02. SG-DtacNoPro-FREE-2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-FREE2.ovpn"
+         "name": "SG-DtacNoPro-FREE2",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/SG-DtacAllPro-FREE2.ovpn"
       },
 
 {
-         "name": "03. SG-DtacNoPro-FREE-3",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-FREE3.ovpn"
+         "name": "SG-TrueNoPro-FREE",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/SG-TrueNoPro-FREE.ovpn"
+      },
+
+
+{
+         "name": "SG-TrueNoPro-FREE2",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/SG-TrueNoPro-FREE2.ovpn"
       },
 
 {
-         "name": "04. SG-DtacNoPro-FREE-4",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-FREE4.ovpn"
-      },
-{
-         "name": "05. SG-DtacNoPro-FREE-5",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-FREE5.ovpn"
+         "name": "US-DtacNoPro-FREE",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/US-DtacAllPro-FREE.ovpn"
       },
 
+
+
+
 {
-         "name": "06. TH-DtacNoPro-FREE",
+         "name": "US-TrueNoPro-FREE",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/US-TrueNoPro-FREE.ovpn"
+      },
+
+
+
+
+{
+         "name": "TH-DtacNoPro-FREE",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-DtacNoPro-FREE.ovpn"
       },
 
 {
-         "name": "07. TH-TrueNoPro-FREE",
+         "name": "TH-TrueNoPro-FREE",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-TrueNoPro-FREE.ovpn"
       },
 
 {
-         "name": "08. TH-Dtac90days-FREE",
+         "name": "TH-Dtac90days-FREE",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-Dtac90days-FREE.ovpn"
       },
 {
-         "name": "09. TH-DtacLINE12-FREE",
+         "name": "TH-DtacLINE12-FREE",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-DtacLINE12-FREE.ovpn"
       },
 
 
 {
-         "name": "10. TH-DtacNoPro-VIP",
+         "name": "TH-DtacNoPro-VIP",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-DtacNoPro-VIP.ovpn"
       },
 
 {
-         "name": "11. TH-TrueNoPro-VIP",
+         "name": "TH-TrueNoPro-VIP",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-TrueNoPro-VIP.ovpn"
       },
 
 {
-         "name": "12. TH-Dtac90days-VIP",
+         "name": "TH-Dtac90days-VIP",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-Dtac90days-VIP.ovpn"
       },
 {
-         "name": "13. TH-DtacLINE12-VIP",
+         "name": "TH-DtacLINE12-VIP",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-DtacLINE12-VIP.ovpn"
       },
 
 
-{
-         "name": "14. US-DtacNoPro-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/US-DtacNoPro-FREE.ovpn"
-      },
-
-{
-         "name": "15. US-TrueNoPro-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/US-TrueNoPro-FREE.ovpn"
-      },
-
-{
-         "name": "16. US-Dtac90days-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/US-Dtac90days-FREE.ovpn"
-      },
-{
-         "name": "17. US-DtacLINE12-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/US-DtacLINE12-FREE.ovpn"
-      },
-
-{
-         "name": "18. JP-DtacNoPro-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/JP-DtacNoPro-FREE.ovpn"
-      },
-
-
-{
-         "name": "19. JP-TrueNoPro-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/JP-TrueNoPro-FREE.ovpn"
-      },
-
-{
-         "name": "20. JP-Dtac90days-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/JP-Dtac90days-FREE.ovpn"
-      },
-
-{
-         "name": "21. JP-DtacLINE12-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/JP-DtacLINE12-FREE.ovpn"
-      },
-
-{
-         "name": "22. SG-TrueNoPro-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-FREE.ovpn"
-      },
-
-{
-         "name": "23. SG-TrueNoPro-FREE-2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-FREE2.ovpn"
-      },
-
-{
-         "name": "24. SG-TrueNoPro-FREE-3",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-FREE3.ovpn"
-      },
-
-{
-         "name": "25. SG-TrueNoPro-FREE-4",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-FREE4.ovpn"
-      },
-
-{
-         "name": "26. SG-TrueNoPro-FREE-5",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-FREE5.ovpn"
-      },
-
 
 
 
 {
-         "name": "27. SG-Dtac90days-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-FREE.ovpn"
-      },
-
-{
-         "name": "28. SG-Dtac90days-FREE-2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-FREE2.ovpn"
-      },
-
-{
-         "name": "29. SG-Dtac90days-FREE-3",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-FREE3.ovpn"
-      },
-
-{
-         "name": "30. SG-Dtac90days-FREE-4",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-FREE4.ovpn"
-      },
-
-{
-         "name": "31. SG-Dtac90days-FREE-5",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-FREE5.ovpn"
-      },
-
-
-
-
-
-{
-         "name": "32. SG-DtacLINE12-FREE",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-FREE.ovpn"
-      },
-
-{
-         "name": "33. SG-DtacLINE12-FREE-2",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-FREE2.ovpn"
-      },
-
-{
-         "name": "34. SG-DtacLINE12-FREE-3",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-FREE3.ovpn"
-      },
-
-{
-         "name": "35. SG-DtacLINE12-FREE-4",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-FREE4.ovpn"
-      },
-
-{
-         "name": "36. SG-DtacLINE12-FREE-5",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-FREE5.ovpn"
-      },
-
-
-
-
-
-{
-         "name": "37. SG-DtacNoPro-VIP-1",
+         "name": "SG-DtacNoPro-VIP-1",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-VIP1.ovpn"
       },
 
 {
-         "name": "38. SG-DtacNoPro-VIP-2",
+         "name": "SG-DtacNoPro-VIP-2",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-VIP2.ovpn"
       },
 
 {
-         "name": "39. SG-DtacNoPro-VIP-3",
+         "name": "SG-DtacNoPro-VIP-3",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-VIP3.ovpn"
       },
 
 {
-         "name": "40. SG-DtacNoPro-VIP-4",
+         "name": "SG-DtacNoPro-VIP-4",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-VIP4.ovpn"
       },
 
 {
-         "name": "41. SG-Dtac90days-VIP-1",
+         "name": "SG-Dtac90days-VIP-1",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-VIP1.ovpn"
       },
 
 
 {
-         "name": "42. SG-Dtac90days-VIP-2",
+         "name": "SG-Dtac90days-VIP-2",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-VIP2.ovpn"
       },
 
 
 
 {
-         "name": "43. SG-Dtac90days-VIP-3",
+         "name": "SG-Dtac90days-VIP-3",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-VIP3.ovpn"
       },
 
 {
-         "name": "44. SG-Dtac90days-VIP-4",
+         "name": "SG-Dtac90days-VIP-4",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-VIP4.ovpn"
       },
 
 
 {
-         "name": "45. SG-DtacLINE12-VIP-1",
+         "name": "SG-DtacLINE12-VIP-1",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-VIP1.ovpn"
       },
 
 {
-         "name": "46. SG-DtacLINE12-VIP-2",
+         "name": "SG-DtacLINE12-VIP-2",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-VIP2.ovpn"
       },
 
 {
-         "name": "47. SG-DtacLINE12-VIP-3",
+         "name": "SG-DtacLINE12-VIP-3",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-VIP3.ovpn"
       },
 
 {
-         "name": "48. SG-DtacLINE12-VIP-4",
+         "name": "SG-DtacLINE12-VIP-4",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-VIP4.ovpn"
       },
 
 {
-         "name": "49. SG-TrueNoPro-VIP-1",
+         "name": "SG-TrueNoPro-VIP-1",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-VIP1.ovpn"
       },
 
 {
-         "name": "50. SG-TrueNoPro-VIP-2",
+         "name": "SG-TrueNoPro-VIP-2",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-VIP2.ovpn"
       },
 {
-         "name": "51. SG-TrueNoPro-VIP-3",
+         "name": "SG-TrueNoPro-VIP-3",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-VIP3.ovpn"
       },
 
 {
-         "name": "52. SG-TrueNoPro-VIP-4",
+         "name": "SG-TrueNoPro-VIP-4",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-VIP4.ovpn"
       }
 
 
    ],
-"message":"🚀 Update config version - 25 \n📆 Latest update - August 06 2022\n \n📌What's new 🔥 \n• Added new Singapore server 5🇸🇬 \n• Added new Thailand server 1🇹🇭\n• Added new United state server 1🇺🇸 \n• Added new Japan server 1🇯🇵 \n \n📌VIP account \n• 1 month - 40 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for your support us❤️",
+"message":"🚀 Update config version - 26 \n📆 Latest update - August 23 2022\n \n📌What's new 🔥 \n• Added new Singapore server 2🇸🇬 \n• Added new Thailand server 1🇹🇭\n• Added new United state server 1🇺🇸 \n \n📌VIP account \n• 1 month - 40 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for your support us❤️",
    "title":"Do you want to update?",
-   "version": 25
+   "version": 26
 }
