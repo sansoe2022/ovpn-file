@@ -1,4 +1,4 @@
-# ovpn-file
+# ovpn-VIP server
 ovpn file
 
 For MaxVPN
