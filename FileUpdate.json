@@ -98,10 +98,6 @@
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-VIP3.ovpn"
       },
 
-{
-         "name": "SG-DtacNoPro-VIP-4",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacNoPro-VIP4.ovpn"
-      },
 
 {
          "name": "SG-Dtac90days-VIP-1",
@@ -121,10 +117,7 @@
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-VIP3.ovpn"
       },
 
-{
-         "name": "SG-Dtac90days-VIP-4",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-Dtac90days-VIP4.ovpn"
-      },
+
 
 
 {
@@ -142,10 +135,7 @@
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-VIP3.ovpn"
       },
 
-{
-         "name": "SG-DtacLINE12-VIP-4",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-DtacLINE12-VIP4.ovpn"
-      },
+
 
 {
          "name": "SG-TrueNoPro-VIP-1",
@@ -159,16 +149,11 @@
 {
          "name": "SG-TrueNoPro-VIP-3",
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-VIP3.ovpn"
-      },
-
-{
-         "name": "SG-TrueNoPro-VIP-4",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-VIP4.ovpn"
       }
 
 
    ],
-"message":"🚀 Update config version - 33 \n📆 Latest update - 13/10/2022\n \n📌What's new 🔥 \n• Added new Singapore server 3🇸🇬 FREE\n• Added new Thailand server 1🇹🇭 FREE\n• Added new United state server 1🇺🇸 FREE\n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for your support us❤️",
+"message":"🚀 Update config version - 34 \n📆 Latest update - 16/10/2022\n \n📌What's new 🔥 \n• Added new Singapore server 3🇸🇬 FREE\n• Added new Thailand server 1🇹🇭 FREE\n• Added new United state server 1🇺🇸 FREE\n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 33
+   "version": 34
 }
