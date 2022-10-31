@@ -3,6 +3,11 @@
    "files": [  
 
 {
+         "name": "SG-Default-FREE",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/SG-DtacAllPro-FREE.ovpn"
+      },
+
+{
          "name": "SG-DtacNoPro-FREE1",
          "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/SG-DtacAllPro-FREE.ovpn"
       },
@@ -31,6 +36,17 @@
 {
          "name": "SG-TrueNoPro-FREE3",
          "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/TrueNoPro-FREE3.ovpn"
+      },
+
+
+{
+         "name": "IN-DtacNoPro-FREE",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/IN-DtacAllPro.ovpn"
+      },
+
+{
+         "name": "IN-TrueNoPro-FREE",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/IN-TrueNoPro.ovpn"
       },
 
 {
@@ -153,7 +169,7 @@
 
 
    ],
-"message":"🚀 Update config version - 36 \n📆 Latest update - 20/10/2022\n \n📌What's new 🔥 \n• Added new Singapore server 3🇸🇬 FREE\n• Added new Thailand server 1🇹🇭 FREE\n• Added new United state server 1🇺🇸 FREE\n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
+"message":"🚀 Update config version - 37 \n📆 Latest update - 31/10/2022\n \n📌What's new 🔥 \n• Added new Singapore server 3🇸🇬 FREE\n• Added new Thailand server 1🇹🇭 FREE\n• Added new United state server 1🇺🇸 FREE\n • Added new Indian server 1🇳🇪 FREE\n •Added new Default server 1🇸🇬 FREE\n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 36
+   "version": 37
 }
