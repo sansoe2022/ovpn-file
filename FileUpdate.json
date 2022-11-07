@@ -3,8 +3,23 @@
    "files": [  
 
 {
-         "name": "SG-Unlimited-New",
+         "name": "SG-Unlimited-FREE",
          "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/SG-Default.ovpn"
+      },
+
+{
+         "name": "SG-Unlimited-FREE2",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/SG-Default2.ovpn"
+      },
+
+{
+         "name": "US-Unlimited-FREE",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/US-Default.ovpn"
+      },
+
+{
+         "name": "US-Unlimited-FREE2",
+         "url": "https://raw.githubusercontent.com/sansoe2022/New-free-ovpn/main/US-Default2.ovpn"
       },
 
 {
@@ -169,7 +184,7 @@
 
 
    ],
-"message":"🚀 Config version - 38 \n📆 Latest update - 07/11/2022\n \n📌What's new 🔥 \n• Added new Singapore 3🇸🇬 FREE\n• Added new Thailand 1🇹🇭 FREE\n• Added new United state 1🇺🇸 FREE\n • Added new Indian 1🇳🇪 FREE\n •Added new Unlimited 1🇸🇬 FREE\n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
+"message":"🚀 Config version - 39 \n📆 Latest update - 07/11/2022\n \n📌What's new 🔥 \n• Added Singapore 3🇸🇬 FREE\n• Added Thailand 1🇹🇭 FREE\n• Added United state 1🇺🇸 FREE\n • Added  Indian 1🇳🇪 FREE\n •Added Unlimited 2🇸🇬 FREE\n• Added Unlimited 2🇺🇸 \n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 38
+   "version": 39
 }
