@@ -2,10 +2,6 @@
 {
    "files": [  
 
-{
-         "name": "SG-Christmas-FREE",
-         "url": "YmgS9o7jI62VBzvFJk1+zYhAQa7OJthseD3VAjpmYv9+pa7MiNrxF1WitkdHxHxDIa4eAg14O9B0K+cE83mSNZodPBN8SwK0PEikqDmRU9Y="
-      },
 
 {
          "name": "SG-DtacNoPro-FREE5",
@@ -42,6 +38,14 @@
          "url": "ZQPrYnxhf8qCIMZq0xwUMWxcqT7ONVD4E3LEizzTDcdiMYINSmxY0KSMHfq/WaaILFKXEO0n+ukuZ7vMMVIHopS2frqK4dXNQ3CLo9iwQYgJxE1NLukLPQ=="
       },
 
+{
+         "name": "CA-DtacNoPro-FREE1",
+         "url": "D/zJk+frZCbnOsc70TISRzDDpvF7b68VqhTtNoW06Uj8W4iMEJsPDKW2q5Qb/TuPesY1gwZ3IbArCcRXjJefeznL7I12Jhq2pxdlfpPw3s36Q6vC/YVxbw=="
+      },
+{
+         "name": "CA-TrueNoPro-FREE1",
+         "url": "D/zJk+frZCbnOsc70TISRzDDpvF7b68VqhTtNoW06Uj8W4iMEJsPDKW2q5Qb/TuPesY1gwZ3IbArCcRXjJefeznL7I12Jhq2pxdlfpPw3s36Q6vC/YVxbw=="
+      },
 
 {
          "name": "IND-DtacNoPro-FREE1",
@@ -114,7 +118,7 @@
       },
 
 {
-         "name": "CA-DtacNoPro-FREE1",
+         "name": "US-DtacNoPro-FREE2",
          "url": "el/fFXLE5xjSwGqBOGYyKLC02+UEfQTwVPO2JbArAg0i0pN2H+eNjsLMKjzM2v3HUIws6U9ZBIcIJI4/ctgjswYwU4lj+YLXskukhTgqwSjtJV1Tm/aLHg=="
       },
 
@@ -124,7 +128,7 @@
       },
 
 {
-         "name": "CA-TrueNoPro-FREE1",
+         "name": "US-TrueNoPro-FREE2",
          "url": "el/fFXLE5xjSwGqBOGYyKLC02+UEfQTwVPO2JbArAg0i0pN2H+eNjsLMKjzM2v3HUIws6U9ZBIcIJI4/ctgjswYwU4lj+YLXskukhTgqwSjtJV1Tm/aLHg=="
       },
 
@@ -167,6 +171,16 @@
 {
          "name": "TH-TrueNoPro-FREE4",
          "url": "BvnRjP4CybAm4XJMF4EL9Imkpu09wIR5x/vyDZYQFRCgE3Zc5OgNeAckqv1NA4H2JTvMzMMwlaH2s6zPJkTFAEm3H+8jm6W9rMHQs9LBztfh2TZDUHMkVw=="
+      },
+
+{
+         "name": "TH-DtacNoPro-FREE5",
+         "url": "HTV9/F4s4G75852WigiC4sj+Ow3u9hseLhz2GNdGCILWkb3KtXNI8yfOOQoUd2eVR1DoQaSLkyuuh9/ViDW/C3tyh2JwaFTkIdqxy+DdQpfIS/NWAFfeFQ=="
+      },
+
+{
+         "name": "TH-TrueNoPro-FREE5",
+         "url": "HTV9/F4s4G75852WigiC4sj+Ow3u9hseLhz2GNdGCILWkb3KtXNI8yfOOQoUd2eVR1DoQaSLkyuuh9/ViDW/C3tyh2JwaFTkIdqxy+DdQpfIS/NWAFfeFQ=="
       },
 
 
@@ -267,7 +281,7 @@
 
 
    ],
-"message":"🚀 Config version - 56 \n📆 Latest update - 29/12/2022\n \n📌What's new 🔥 \n• Added more server \n \n•Added Christmas server for FREE🎁 \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
+"message":"🚀 Config version - 57 \n📆 Latest update - 04/01/2022\n \n📌What's new 🔥 \n• Added more server \n \n•Added Christmas server for FREE🎁 \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 56
+   "version": 57
 }
