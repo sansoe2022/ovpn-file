@@ -1,9 +1,9 @@
 {
-   "One": false,
+   "One": true,
    "Title": "AIS SIM new Pro",
    "Content": "SVPN Connect server will be temporarily repair",
    "Image": "https://images.pexels.com/photos/1804035/pexels-photo-1804035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-
+   "NotiBadge" 2,
    "Two": true,
    "TitleTwo": "Dtac SIM new Pro",
    "ContentTwo": "Dtac has new promotiom.it is *101*1# 61 baht per month and connect with SVPN connect \nSVPN Connect server will be temporarily repair \nSVPN Connect server will be temporarily repair ",
