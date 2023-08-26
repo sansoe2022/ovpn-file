@@ -1,13 +1,13 @@
 {
-   "One":true,
+   "One": false,
    "Title": "AIS SIM new Pro",
    "Content": "SVPN Connect server will be temporarily repair",
    "Image": "https://images.pexels.com/photos/1804035/pexels-photo-1804035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 
-   "Two":true,
+   "Two": true,
    "TitleTwo": "Dtac SIM new Pro",
    "ContentTwo": "Dtac has new promotiom.it is *101*1# 61 baht per month and connect with SVPN connect \nSVPN Connect server will be temporarily repair \nSVPN Connect server will be temporarily repair ",
-   "ImageTwo": "https://images.pexels.com/photos/18104/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+   "ImageTwo": "https://images.freeimages.com/images/large-previews/209/nileboat-1402687.jpg"
    
    
 }
