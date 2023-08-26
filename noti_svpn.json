@@ -1,22 +1,6 @@
 {
-
-   "list": [
-
-      {
-         "title": "SG-Lifetime-FREE-01",
-
-         "content": "z/sKbbZGvgecIvjGHBtdAvHfZmILAitC74m9U12Z98nQYhADF7jf8U9KkAc="
-
-      },
-
-      {
-
-         "title": "SG-Lifetime-FREE-02",
-
-         "content": "z/sKbbZGvgecIvjGHBtdAvHfZmILAitC74m9U12Z98nQYhADF7jf8U9KkAc="
-
-      }
-
-   ]
-
+   
+   "Title": "Warning",
+   "Content": "SVPN Connect server will be temporarily repair",
+   "Image": "https://images.freeimages.com/images/large-previews/272/simple-apple-1327953.jpg"
 }
