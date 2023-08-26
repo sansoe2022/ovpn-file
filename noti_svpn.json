@@ -1,10 +1,10 @@
 {
-   "OnOne": "true",
+   "OnOne": true,
    "Title": "Warning",
    "Content": "SVPN Connect server will be temporarily repair",
    "Image": "https://images.freeimages.com/images/large-previews/272/simple-apple-1327953.jpg",
 
-   "OnTwo": "true",
+   "OnTwo": true,
    "TitleTwo": "Dtac SIM new Pro",
    "ContentTwo": "Dtac has new promotiom.it is *101*1# 61 baht per month and connect with SVPN connect \n ",
    "ImageTwo": "https://images.freeimages.com/images/large-previews/272/simple-apple-1327953.jpg"
