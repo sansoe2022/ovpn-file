@@ -6,10 +6,10 @@
   
    "Image": "https://www.reuters.com/resizer/22F3uX1zWf93nzJuf26_2F5xT3s=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UDGQHUCADNNTXG6YA2NUENZFKQ.jpg",
   
-   "NotiBadge": 1,
-   "ShowBadge": true,
+   "NotiBadge": 2,
+   "ShowBadge": false,
   
-   "Two": false,
+   "Two": true,
    "TitleTwo": "Dtac SIM new Pro",
   
    "ContentTwo": "Content words are words that have meaning. They can be compared to grammatical words which are structural. Nouns main verbs adjectives and adverbs are usually content words. Auxiliary verbs pronouns articles and prepositions are usually grammatical words. ",
