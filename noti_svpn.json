@@ -1,5 +1,5 @@
 {
-   "One": false,
+   "One": true,
    "Title": "Thailand threatens Facebook with legal action over alleged scams",
   
    "Content": "BANGKOK Aug 21 (Reuters) - Thailand's digital minister plans to ask a court to shut down Meta Platforms' Facebook (META.O) in Southeast Asia's second largest economy unless it takes action over scams that have affected more than 200000 people he said on Monday.We are asking the court to close Facebook not allowing it to provide services in Thailand if they let these fake pages scam people Chaiwut Thanakamanusorn told Reuters.",
@@ -8,7 +8,7 @@
   
    "NotiBadge": 1,
   
-   "Two": true,
+   "Two": false,
    "TitleTwo": "Dtac SIM new Pro",
   
    "ContentTwo": "Content words are words that have meaning. They can be compared to grammatical words which are structural. Nouns main verbs adjectives and adverbs are usually content words. Auxiliary verbs pronouns articles and prepositions are usually grammatical words. ",
