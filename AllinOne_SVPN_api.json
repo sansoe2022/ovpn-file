@@ -1,14 +1,19 @@
 
 {
+  //Config files
 "url":"https://github.com/sansoe2022/ovpn-file/raw/main/EncryptOvpn.zip",
 "message":"🚀 Config version - 1 \n📆 Latest update - 21/08/2023\n \n📌What's new 🔥 \n• Added Singapore 2🇸🇬 FREE\n• Added Thailand 2🇹🇭 FREE \n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited ✅ \n• Unlimited time - Yes 💯 \n• 1 Device - 1 account 🔒 \n \nContact admin to buy VIP account \n \nThank you for support us💙",
 "title":"New update available now.",
 "version": 1,
+  
+  //Admob and GDPR message
   "Online": false,
   "Reward":"ca-app-pub-3940256099942544/5224354917",
    "Inter": "ca-app-pub-3940256099942544/1033173712",
 
-"dtac":"• *101*9# လက်ကျန်ငွေ စစ်ရန် \n \n• *101*1*9# အင်တာနက်ပက်ကေ့ခ် ရှိမရှိစစ်ရန် \n \n• *102# ဖုန်းနံပါတ် စစ်ဆေးရန် \n \n📢 အင်နက်ဖရီး သုံးရန် လမ်းညွှန်\n• Dtacက ဖုန်းဘေ 0နဲ့ VPN ချိတ်သုံးရပါမယ် ဖုန်းဘေထည့်စရာမလိုပဲ သုံးရမယ်နော် အင်တာနက်ဖွင့်ရင် စမတ်ထားတဲ့ပက့်ကေ့ခ်မရှိလို့ ဖုန်းဘေဖြတ်ပါတယ် တကယ်လို့ တခါတလေ ချိတ်လို့မရရင် လေယဥ်ပျံ (Airplane mode) ဖွင့်ပိတ် ကစားပေးပါ \n \n• ဖုန်းဘေထည့်ထားပြီ အင်တာနက်ဖွင့်ရင် ဖုန်းဘေမဖြတ်အောင် ဒီပက်ကေ့လ်နဲ့ တွဲစမတ်သုံးပါ \n• *117*30# တစ်လ 20ဘတ် ကုန်ပါတယ် \n \n ပြီးတော့ SVPN Connect ထဲမှာ Dtac ပုံ (သို့မဟုတ်) Dtac စာပါတဲ့ဖိုင်ကို ရွေပြီး ချိတ်သုံးပါခင်ဗျာ။ \n \n• တစ်ခုခုနားမလည်တာရှိရင် မေးစရာရှိရင် ကျွန်တော့်ကို ဆက်သွယ်ပြီး လာမေးလို့ရပါတယ်ဗျ \n \nအားပေးတဲ့အတွက် ကျေးဇူးပါဗျာ❤️ ", 
+  //SIM Guide
+"dtac":"• *101*9# လက်ကျန်ငွေ စစ်ရန် \n \n• *101*1*9# အင်တာနက်ပက်ကေ့ခ် ရှိမရှိစစ်ရန် \n \n• *102# ဖုန်းနံပါတ် စစ်ဆေးရန် \n \n📢 အင်နက်ဖရီး သုံးရန် လမ်းညွှန်\n• Dtacက ဖုန်းဘေ 0နဲ့ VPN ချိတ်သုံးရပါမယ် ဖုန်းဘေထည့်စရာမလိုပဲ သုံးရမယ်နော် အင်တာနက်ဖွင့်ရင် စမတ်ထားတဲ့ပက့်ကေ့ခ်မရှိလို့ ဖုန်းဘေဖြတ်ပါတယ် တကယ်လို့ တခါတလေ ချိတ်လို့မရရင် လေယဥ်ပျံ (Airplane mode) ဖွင့်ပိတ် ကစားပေးပါ \n \n• ဖုန်းဘေထည့်ထားပြီ အင်တာနက်ဖွင့်ရင် ဖုန်းဘေမဖြတ်အောင် ဒီပက်ကေ့လ်နဲ့ တွဲစမတ်သုံးပါ \n• *117*30# တစ်လ 20ဘတ် ကုန်ပါတယ် \n \n ပြီးတော့ SVPN Connect ထဲမှာ Dtac ပုံ (သို့မဟုတ်) Dtac စာပါတဲ့ဖိုင်ကို ရွေပြီး ချိတ်သုံးပါခင်ဗျာ။ ", 
 "true":"- *833# check number \n \n- *123# check balance \n \n- *900# check internet package \n \n- Coming soon",
-"ais":"No have content yet"
+"ais":"No have content yet",
+"others":"No have content yet"
 }
