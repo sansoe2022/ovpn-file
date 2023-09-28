@@ -8,16 +8,16 @@
    "Image": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/20230924_190724.jpg",
 
    //Badge Notification
-   "NotiBadge": 1,
+   "NotiBadge": 2,
    "ShowBadge": true,
 
    //Two CardView
-   "Two": false,
-   "TitleTwo": "Dtac SIM new Pro",
+   "Two": true,
+   "TitleTwo": "သက်သာသော စျေးနှုန်းဖြင့် မြန်မာဖုန်းဘေ ထည့်ပေးနေပါပြီ",
   
-   "ContentTwo": "Content words are words that have meaning. They can be compared to grammatical words which are structural. Nouns main verbs adjectives and adverbs are usually content words. Auxiliary verbs pronouns articles and prepositions are usually grammatical words. ",
+   "ContentTwo": "ထိုင်းကနေ မြန်မာပြည်ဆင်းမ်အားလုံးအတွက် ကျနော့်ဆီမှာ ဖုန်းဘေလာထည့်လို့ ရပါပြီ \n \nစျေးနှုန်းများ \n \n🇹🇭 15 ဘတ် = 🇲🇲 1000 ကျပ် \n \n🇹🇭 70 ဘတ် = 🇲🇲 5000 ကျပ် \n \n🇹🇭 135 ဘတ် = 🇲🇲 10000 ကျပ် \n \n🇹🇭 265 ဘတ် = 🇲🇲 20000 ကျပ် ရရှိမှာ ဖြစ်ပါတယ်ဗျာ \n \nကျနော့်ကို VIP အကောင့်ဝယ်တဲ့နေရာမှာ ဆက်သွယ်ပြီး လာအားပေးနိုင်ပါတယ်ဗျာ \nကျေးဇူးတင်ပါတယ် 🙏❤️",
   
-   "ImageTwo": "https://images.freeimages.com/images/large-previews/f5b/a-child-1431845.jpg"
+   "ImageTwo": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/myanmar_bill.jpg"
    
    
 }
