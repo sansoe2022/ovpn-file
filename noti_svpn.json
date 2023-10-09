@@ -1,6 +1,6 @@
 {
    //One CardView
-   "One": true,
+   "One": false,
    "Title": " VIP အကောင့် ဝယ်ထားသော မိတ်ဆွေများ သတိလာပေးတာပါ ",
   
    "Content": " 01/10/2023 ရက်နေ့ ဆာဗာပြောင်းမှာဖြစ်လို့ အဲ့ရက်မှာ ချိတ်ဆက်မရတာတွေ ဖြစ်ပါမယ် \nဒါကြောင့် အခုဆာဗာအပ်ဒိပ် ဗားရှင်း 10 ကို လုပ်ထားမယ်ဆိုရင် ပုံမှန်ပဲ ချိတ်ဆက်အသုံးပြုနိုင်မည် ဖြစ်ပါတယ် \n \nSVPN Connect ကို အသုံးပြုတဲ့အတွက် \nကျေးဇူးအထူးတင်ပါတယ် ခင်ဗျာ🙏❤️ ",
@@ -8,7 +8,7 @@
    "Image": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/20230929_102920.jpg",
 
    //Badge Notification
-   "NotiBadge": 2,
+   "NotiBadge": 1,
    "ShowBadge": true,
 
    //Two CardView
