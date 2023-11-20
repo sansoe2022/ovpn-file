@@ -1,6 +1,6 @@
 {
    //One CardView
-   "One": true,
+   "One": false,
    "Title": " VIP ဝယ်ထားသူများ ချိတ်မရတဲ့ ပြဿနာ ဖြေရှင်းနည်း ",
   
    "Content": " Dtac ဆင်းမ်နဲ့ အရင်လို VIP အကောင့်ပဲ ဝယ်ပြီး ချိတ်သုံးလို့ မရတော့ပါခင်ဗျာ \n \nရက်90 နဲ့ တွဲစမတ်ပြီး သုံးရပါမယ် \n \nရက် 90 စမတ်နည်းကတော့ ဒီအောက်ကလင့်မှာ ဝင်ကြည့်ပေးပါ\nhttps://m.facebook.com/story.php?story_fbid=1256492734874450&id=100015412062207  \n \nရက်90စမတ်ပြီးပါက DtacNoPro (သို့မဟုတ်) Dtac90days ကို ရွေးပြီး ချိတ်သုံးပါခင်ဗျာ \n \nVIP အကောင့်ဝယ်ထားတာ သက်တမ်းရှိရင် ရက်90 ပဲဝယ်ပြီး ပြန်ချိတ်သုံးလို့ရပါတယ် VIPအကောင့်သစ် ထပ်ဝယ်စရာမလိုဘူးနော်  \n \nအားလုံး အဆင်ပြေကြပါစေဗျာ❤️🙏",
@@ -8,7 +8,7 @@
    "Image": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/20231102_080654.jpg",
 
    //Badge Notification
-   "NotiBadge": 2,
+   "NotiBadge": 1,
    "ShowBadge": true,
 
    //Two CardView
