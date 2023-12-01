@@ -28,44 +28,12 @@
          "url": "http://116.204.182.39:81/server/online_app.json"
 
       },
-
-{
-
-         "name": "SG-FREE-3",
-
-         "url": "http://154.26.139.143:81/server/online_app.json"
-
-      },
       
 {
 
          "name": "TH-FREE-4",
 
          "url": "http://45.91.134.203:81/server/online_app.json"
-
-      },
-
-{
-
-         "name": "SG-VIP-1",
-
-         "url": "http://128.199.207.143:81/server/online_app.json"
-
-      },
-         
-{
-
-         "name": "SG-VIP-2",
-
-         "url": "http://178.128.214.243:81/server/online_app.json"
-
-      },
-            
-{
-
-         "name": "SG-VIP-3",
-
-         "url": "http://159.223.45.89:82/server/online_app.json"
 
       }
 
