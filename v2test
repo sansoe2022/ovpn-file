@@ -1,21 +1,21 @@
 {
-"version": 3,
+"version": 4,
 
 "files": [
 
 {
          "name": "SG-Dtac",
-         "config": "vmess://eyJhZGQiOiJ0cnVlcHJvLmRkbnMubmV0IiwiYWlkIjoiMCIsImhvc3QiOiJ0aGFpdjEuc210aGFpNGcud2luIiwiaWQiOiJmYzgyYjk1ZS03ZWExLTRlNTUtYjJiNC1lNDMxMDU2YWE5NGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TH-TrueNoPro-001"
 
       },
 {
          "name": "SG-Dtac",
-         "config": "vmess://eyJhZGQiOiJ0cnVlcHJvLmRkbnMubmV0IiwiYWlkIjoiMCIsImhvc3QiOiJ0aGFpdjEuc210aGFpNGcud2luIiwiaWQiOiJmYzgyYjk1ZS03ZWExLTRlNTUtYjJiNC1lNDMxMDU2YWE5NGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TH-TrueNoPro-001"
 
       },
 {
          "name": "SG-True",
-         "config": "vmess://eyJhZGQiOiJ0cnVlcHJvLmRkbnMubmV0IiwiYWlkIjoiMCIsImhvc3QiOiJ0aGFpdjEuc210aGFpNGcud2luIiwiaWQiOiJmYzgyYjk1ZS03ZWExLTRlNTUtYjJiNC1lNDMxMDU2YWE5NGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TH-TrueNoPro-001"
 
       },
 {
