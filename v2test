@@ -14,6 +14,14 @@
 {
          "config": "vmess://eyJhZGQiOiJ0cnVlcHJvLmRkbnMubmV0IiwiYWlkIjoiMCIsImhvc3QiOiJ0aGFpdjEuc210aGFpNGcud2luIiwiaWQiOiJmYzgyYjk1ZS03ZWExLTRlNTUtYjJiNC1lNDMxMDU2YWE5NGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
 
+      },
+{
+         "config": "vmess://eyJhZGQiOiJzZ3YtMS5vcGVudjJyYXkuY29tIiwiYWlkIjoiMTYiLCJob3N0IjoibS5mYWNlYm9vay5jb20iLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtdXBkYXRlIiwicG9ydCI6IjgwIiwicHMiOiJvcGVudHVubmVsLm5ldC11cGRhdGUiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+
+      },
+{
+         "config": "vmess://eyJhZGQiOiJzZ3YtMS5vcGVudjJyYXkuY29tIiwiYWlkIjoiMTYiLCJob3N0IjoibS5mYWNlYm9vay5jb20iLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtdXBkYXRlIiwicG9ydCI6IjQ0MyIsInBzIjoib3BlbnR1bm5lbC5uZXQtdXBkYXRlIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+
       }
 
 
