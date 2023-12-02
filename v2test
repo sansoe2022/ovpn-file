@@ -1,5 +1,5 @@
 {
-"version": 4,
+"version": 5,
 
 "files": [
 
@@ -10,17 +10,17 @@
       },
 {
          "name": "SG-Dtac",
-         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TH-TrueNoPro-001"
+         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#SG-DtacLINE12"
 
       },
 {
          "name": "SG-True",
-         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TH-TrueNoPro-001"
+         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TH-TrueNoPro-002"
 
       },
 {
          "name": "TH-True",
-         "config": "vmess://eyJhZGQiOiJzZ3YtMS5vcGVudjJyYXkuY29tIiwiYWlkIjoiMTYiLCJob3N0IjoibS5mYWNlYm9vay5jb20iLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtdXBkYXRlIiwicG9ydCI6IjgwIiwicHMiOiJvcGVudHVubmVsLm5ldC11cGRhdGUiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TH-TrueNoPro-003"
 
       },
 {
