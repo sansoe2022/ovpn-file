@@ -1,38 +1,24 @@
 {
-"version": 7,
+"version": 8,
 
 "files": [
 
 {
          "name": "SG-Dtac",
-         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TH-TrueNoPro-001"
+         "config": "vmess://eyJhZGQiOiJ1czEuc29jaWZpbGVzLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibS53ZWJ0b29ucy5jb20iLCJpZCI6IjllNGYxZjgwLTkxMmYtMTFlZS05MTRmLTEyMzlkMDI1NTI3MiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bXdzIiwicG9ydCI6IjgwIiwicHMiOiJTRyBEVEFDIExpbmUgMDAxIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
 
       },
 {
          "name": "SG-Dtac",
-         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#SG-DtacLINE12"
+         "config": "vmess://eyJhZGQiOiJ1czUuc29jaWZpbGVzLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2otc3BlZWR0ZXN0LmViYi5teSIsImlkIjoiMDhiNzJmZDAtOTEzMC0xMWVlLTg3ZTctMTIzOWQwMjU1MjcyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3Ztd3MiLCJwb3J0IjoiODAiLCJwcyI6IkFpcyBQbGF5IDY0SyIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
 
       },
 {
          "name": "SG-True",
-         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TH-TrueNoPro-002"
-
-      },
-{
-         "name": "TH-True",
-         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#TH-TrueNoPro-003"
-
-      },
-{
-         "name": "TH-Ais",
-         "config": "vless://key ဝယ်ရန်@104.18.10.161:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#SG-Dtac-VIP-LINE12"
-
-      },
-{
-         "name": "SG-Ais",
-         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@m.webtoons.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#SG-DtacLINE12"
+         "config": "vmess://eyJhZGQiOiJzZzMuc29jaWZpbGVzLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG9wcGluZy50cnVlbW92ZWguY29tIiwiaWQiOiI5ZjBkNDFmMC05MTMwLTExZWUtYTU2Yy0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm13cyIsInBvcnQiOiI4MCIsInBzIjoiVHJ1ZSBObyBQcm8iLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
 
       }
+
 
 
    ]
