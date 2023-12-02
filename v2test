@@ -1,5 +1,5 @@
 {
-"version": 6,
+"version": 7,
 
 "files": [
 
@@ -30,7 +30,7 @@
       },
 {
          "name": "SG-Ais",
-         "config": "vmess://eyJhZGQiOiJzZ3YtMS5vcGVudjJyYXkuY29tIiwiYWlkIjoiMTYiLCJob3N0IjoibS5mYWNlYm9vay5jb20iLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtdXBkYXRlIiwicG9ydCI6IjQ0MyIsInBzIjoib3BlbnR1bm5lbC5uZXQtdXBkYXRlIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+         "config": "vless://b5f95aa0-90ec-11ee-9b40-1239d0255272@m.webtoons.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#SG-DtacLINE12"
 
       }
 
