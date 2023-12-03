@@ -1,16 +1,16 @@
 {
-"version": 9,
+"version": 10,
 
 "files": [
 
 {
          "name": "SG-Dtac",
-         "config": "vmess://eyJhZGQiOiJpZHYtMy5vcGVudjJyYXkuY29tIiwiYWlkIjoiMTYiLCJob3N0IjoibS5mYWNlYm9vay5jb20iLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtbWVzcyIsInBvcnQiOiI4MCIsInBzIjoib3BlbnR1bm5lbC5uZXQtbWVzcyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+         "config": "vmess://eyJhZGQiOiJwYWluZ2hlaW50cnVlLmR1Y2tkbnMub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aGZyZWVyYXkucGFpbmdoZWluLmNvbSIsImlkIjoiM2NkMDdjNDItYWU3ZS00ZjJjLThlNTctMDAxZWNhMWM4MTJhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiVEgtVFJVRS1OTy1QUk8tMDAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
 
       },
 {
          "name": "SG-Dtac",
-         "config": "vmess://eyJhZGQiOiJpZHYtMy5vcGVudjJyYXkuY29tIiwiYWlkIjoiMTYiLCJob3N0IjoibS5mYWNlYm9vay5jb20iLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtbWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6Im9wZW50dW5uZWwubmV0LW1lc3MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+         "config": "vmess://eyJhZGQiOiJtLndlYnRvb25zLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidGhmcmVlcmF5LnBhaW5naGVpbi5jb20iLCJpZCI6IjNjZDA3YzQyLWFlN2UtNGYyYy04ZTU3LTAwMWVjYTFjODEyYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRILVRSVUUtTk8tUFJPLTAwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
 
       },
 {
