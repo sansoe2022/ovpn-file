@@ -1,20 +1,21 @@
 {
 "version": 10,
+"message": "What's new \nAdded new server \nAdded new promo ",
 
 "files": [
 
 {
-         "name": "SG-Dtac",
+         
          "config": "vmess://eyJhZGQiOiJwYWluZ2hlaW50cnVlLmR1Y2tkbnMub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aGZyZWVyYXkucGFpbmdoZWluLmNvbSIsImlkIjoiM2NkMDdjNDItYWU3ZS00ZjJjLThlNTctMDAxZWNhMWM4MTJhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiVEgtVFJVRS1OTy1QUk8tMDAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
 
       },
 {
-         "name": "SG-Dtac",
+        
          "config": "vmess://eyJhZGQiOiJtLndlYnRvb25zLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidGhmcmVlcmF5LnBhaW5naGVpbi5jb20iLCJpZCI6IjNjZDA3YzQyLWFlN2UtNGYyYy04ZTU3LTAwMWVjYTFjODEyYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IlRILVRSVUUtTk8tUFJPLTAwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
 
       },
 {
-         "name": "SG-True",
+         
          "config": "vmess://eyJhZGQiOiJzZzMuc29jaWZpbGVzLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG9wcGluZy50cnVlbW92ZWguY29tIiwiaWQiOiI5ZjBkNDFmMC05MTMwLTExZWUtYTU2Yy0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm13cyIsInBvcnQiOiI4MCIsInBzIjoiVHJ1ZSBObyBQcm8iLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
 
       }
