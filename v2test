@@ -1,12 +1,12 @@
 {
-"version": 11,
+"version": 12,
 "message": "What's new \nAdded new server \nAdded new promo ",
 
 "files": [
 
 {
          
-         "config": "vmess://eyJhZGQiOiJwYWluZ2hlaW50cnVlLmR1Y2tkbnMub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aGZyZWVyYXkucGFpbmdoZWluLmNvbSIsImlkIjoiM2NkMDdjNDItYWU3ZS00ZjJjLThlNTctMDAxZWNhMWM4MTJhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiVEgtVFJVRS1OTy1QUk8tMDAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+         "config": "vmess://eyJhZGQiOiJzZ3YtMy5vcGVudjJyYXkuY29tIiwiYWlkIjoiMTYiLCJob3N0IjoibGluZS5tZSIsImlkIjoiYTQwZDM0YzYtYjc3Yy00NjQ4LTkyMTAtM2U4ZDJmNDIyNmI1IiwibmV0Ijoid3MiLCJwYXRoIjoiL29wZW50dW5uZWw/dXNlcj1vcGVudHVubmVsLm5ldC1kdGFjbGluZTEyIiwicG9ydCI6IjgwIiwicHMiOiJvcGVudHVubmVsLm5ldC1kdGFjbGluZTEyIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
 
       },
 {
