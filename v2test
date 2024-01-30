@@ -1,34 +1,11 @@
-
 {
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "ca-app-pub-3940256099942544/1033173712",
-"version": 14,
-"message": "What's new \nAdded new server \nAdded new promo ",
+"version": 1,
+"message": "What's new \nAdded new server FREE&VIP",
 
-"files": [
-
-{
-         
-         "config": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRoLWZyZWUxLnNrc3Zwbi5zaG9wIiwiaWQiOiJhOTdjN2JmMC0xZDE2LTRkNjEtYWQzNi02NzM1YjI1NWM5YzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnFZeWFyYkIvIiwicG9ydCI6IjgwIiwicHMiOiJUSC1UcnVlTm9Qcm8tRlJFRS0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-     
-},
-{
-        
-         "config": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRoLWZyZWUxLnNrc3Zwbi5zaG9wIiwiaWQiOiJhOTdjN2JmMC0xZDE2LTRkNjEtYWQzNi02NzM1YjI1NWM5YzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnFZeWFyYkIvIiwicG9ydCI6IjgwIiwicHMiOiJUSC1UcnVlTm9Qcm8tRlJFRS0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-      },
-{
-         
-         "config": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRoLWZyZWUxLnNrc3Zwbi5zaG9wIiwiaWQiOiJhOTdjN2JmMC0xZDE2LTRkNjEtYWQzNi02NzM1YjI1NWM5YzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnFZeWFyYkIvIiwicG9ydCI6IjgwIiwicHMiOiJUSC1UcnVlTm9Qcm8tRlJFRS0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-     
-},
-
-{
- "config": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRoLWZyZWUxLnNrc3Zwbi5zaG9wIiwiaWQiOiJhOTdjN2JmMC0xZDE2LTRkNjEtYWQzNi02NzM1YjI1NWM5YzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnFZeWFyYkIvIiwicG9ydCI6IjgwIiwicHMiOiJUSC1UcnVlTm9Qcm8tRlJFRS0xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
-}
-
-   ],
-
+"zipLink": "",
 
 
 "dtac": "Dtac ဆင်းမ်သုံးပါက ဘာမှစမတ်စရာမလိုပါ \n• DtacNoPro ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)",
@@ -40,4 +17,3 @@
 
 
 }
-
