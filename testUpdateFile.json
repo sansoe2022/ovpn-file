@@ -1,0 +1,32 @@
+{
+
+"version": 1,
+"message": "What's new \nAdded new server",
+
+"files": [
+
+{
+         //server-1
+         "config": "w1nreLjD4ovlIxwjMNuzrJJKz77g9DM9L7Be5XWZYbw4X+HxdRrUaKEVXmIG71xucoSHYy+gLhNsbxRThGrG5lHXescX97xGbfuAbTIKBW57BbmWzGqL+/MiBjA8BDJWv/oDoGMKfiJYrFBWI3l/5XqZ9stO+Rvf8ybjxbiO6xCyMtKCT33bVdegkp1fxYTdjctAPO1V1u1QYDNxMoKQWfp1N4sZwEhKE2i047ZQsuuj43dvPqHBiOnDFL/ZFIbMyNfYGd8YJqtgL4KWAeWlZwLtSMbSOM4R5hepAVgTWQZDSWGKkqxJq7ycbtE9O3CB661RB6qeF4JVZO4Em+uH8K38WR3rqiGOMNVWfkxmtbZMzSTl7lNkziweDezwfBRI1E9TJMxAzjsXkJ0zxs9H3g06Wt79veTHnSaH+h3oMLpuJwHRBtOMyriBFjVL48FDj+I8Ae0EGOs="
+     
+},
+{
+        //server-2
+      "config": "w1nreLjD4ovlIxwjMNuzrJJKz77g9DM9L7Be5XWZYbw4X+HxdRrUaKEVXmIG71xucoSHYy+gLhNsbxRThGrG5lHXescX97xGbfuAbTIKBW57BbmWzGqL+/MiBjA8BDJWv/oDoGMKfiJYrFBWI3l/5XqZ9stO+Rvf8ybjxbiO6xCyMtKCT33bVdegkp1fxYTdjctAPO1V1u1QYDNxMoKQWfp1N4sZwEhKE2i047ZQsuuj43dvPqHBiOnDFL/ZFIbMyNfYGd8YJqtgL4KWAeWlZwLtSMbSOM4R5hepAVgTWQZDSWGKkqxJq7ycbtE9O3CB661RB6qeF4JVZO4Em+uH8K38WR3rqiGOMNVWfkxmtbZMzSTl7lNkziweDezwfBRI1E9TJMxAzjsXkJ0zxs9H3g06Wt79veTHnSaH+h3oMLpuJwHRBtOMyriBFjVL48FDj+I8Ae0EGOs="
+      
+      }
+      
+
+   ],
+
+
+
+"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်...",
+
+"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်...",
+
+"ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAis ဆင်းမ်ဆိုရင်..."
+
+
+
+}
