@@ -1,0 +1,44 @@
+{
+
+"version": 1,
+"message": "ဘာတွေထည့်ထားသလဲ \nအစမ်း ဖိုင်အပ်ဒိပ်",
+
+"files": [
+
+{
+         //server-1
+         "config": "Zy6Cx/6LNmJip9yr/J2BfAtaQlKJmWp8q16OKLuY1Zuc8K019psgNOTG6Sj1+FghIJwPmPX7Pzznm22Mzm1KCN5+AC3U06ed9WuK5Fe8zm6Axx9boFA6u4OZXigx2zpOnIBUqVm5mT98C5X/GScJJppkgFPhzfucVRXyC5T8inZ7/gUDXKV16XdkvU6iveYEFo8MMvMedB8iRaEBIVL4B+zyLHM+PylV41CXu0gRjGvb714xdSOHdsEAEy97v3LtDCsxy062g1HVuVRUrIrXvQe7TY1ClmSmroCFdOwV2sZGWoc4jRewQmK3OpHHOFfO6NM/r8RgRD2MPlbUs81Pq/9e99V4v9qKGPMdvJSCl9suGfHssTtytJeQoiMxAU07I4Y16qkbG3pG+1p9CskQHoVyv2/M3Ih9YvBSIOF+sALwis/Qrdo4jdFjggg="
+     
+},
+{
+        //server-2
+      "config": "Zy6Cx/6LNmJip9yr/J2BfAtaQlKJmWp8q16OKLuY1Zuc8K019psgNOTG6Sj1+FghIJwPmPX7Pzznm22Mzm1KCN5+AC3U06ed9WuK5Fe8zm6Axx9boFA6u4OZXigx2zpOnIBUqVm5mT98C5X/GScJJppkgFPhzfucVRXyC5T8inZ7/gUDXKV16XdkvU6iveYEFo8MMvMedB8iRaEBIVL4B+zyLHM+PylV41CXu0gRjGvb714xdSOHdsEAEy97v3LtDCsxy062g1HVuVRUrIrXvQe7TY1ClmSmroCFdOwV2sZGWoc4jRewQmK3OpHHOFfO6NM/r8RgRD2MPlbUs81Pq/9e99V4v9qKGPMdvJSCl9suGfHssTtytJeQoiMxAU07I4Y16qkbG3pG+1p9CskQHoVyv2/M3Ih9YvBSIOF+sALwis/Qrdo4jdFjggg="
+      
+      },
+
+{
+        //server-3
+      "config": "MSuYsfsOs2wiu6BLsHE3P67KMfivQ6Bs+YylyoEfBbmr0CbZiPBJmagAvt3hnYqH5ENLIMf4AYVPCmfMtS7WfsiQz2Ji88Vo2UucCvs9ocXGHgN9nU2S+z7OMgI5JN9UziCP+7JXi5kYgwc7cG4jAYEc9qUCc4L/PHo14KLfSR9SLzLsLWFik8llPYU+7iKK3nOrYCB4gLvf48zHMGgMYORkevU7LZFZuEIa+GYDfaeIe4QOP+PBCxx7A8oWE3Be5hdRW+krt/Hcpiq8F4UaKqcf3IV/PEnX5cq++IflYhHuQeVOGBYdxYSkbKRTVxQltoweRzzJm+FsFwRI72NZiHlg2eWmnneoj5c6bJkm430q377eskdkB6MjxG36hB4dbOzg2RiQ80WY5eA9vtWAC4SRjD2azeF30GIJLSdyXLlODBdr50tbyQhCFn3Ugvjk9e/ngcwDo1rmEG/F"
+      
+      },
+      
+      {
+        //server-4
+      "config": "MSuYsfsOs2wiu6BLsHE3P67KMfivQ6Bs+YylyoEfBbmr0CbZiPBJmagAvt3hnYqH5ENLIMf4AYVPCmfMtS7WfsiQz2Ji88Vo2UucCvs9ocXGHgN9nU2S+z7OMgI5JN9UziCP+7JXi5kYgwc7cG4jAYEc9qUCc4L/PHo14KLfSR9SLzLsLWFik8llPYU+7iKK3nOrYCB4gLvf48zHMGgMYORkevU7LZFZuEIa+GYDfaeIe4QOP+PBCxx7A8oWE3Be5hdRW+krt/Hcpiq8F4UaKqcf3IV/PEnX5cq++IflYhHuQeVOGBYdxYSkbKRTVxQltoweRzzJm+FsFwRI72NZiHlg2eWmnneoj5c6bJkm430q377eskdkB6MjxG36hB4dbOzg2RiQ80WY5eA9vtWAC4SRjD2azeF30GIJLSdyXLlODBdr50tbyQhCFn3Ugvjk9e/ngcwDo1rmEG/F"
+      
+      }
+      
+
+   ],
+
+
+
+"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်...",
+
+"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်...",
+
+"ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAis ဆင်းမ်ဆိုရင်..."
+
+
+
+}
