@@ -1,5 +1,7 @@
 {
-
+"Banner": "ca-app-pub-3940256099942544/6300978111",
+"Reward": "ca-app-pub-3940256099942544/5224354917",
+"Inter": "add inter unit here",
 "version": 1,
 "message": "What's new \nAdded new server",
 
@@ -7,19 +9,18 @@
 
 {
          //server-1
-         "config": "jmTPPRTzTbdPc7PUILvOK4oyChYDnCRUqPpmHDcMlzeSFT/rs5eDmcZcBtVVmjZyqIPAiQ5V/1/u1K9jhhq5QVcywi5kuxXj3DCWj4GnwaNqnNjPnkR8FrbVwXwDD3d9PUx2oIVRwNsVRsBnvWTZovDmoWtMKdQGBld85YK/8+5CC2OCMQBsI0wRarnovmo0LJOP0/bXs15Sf4LS6QCOYaV4ksZ5UydkdFL7t7DSVhpCLrBBxkNpTAnXuehgzJEc/8LJNHvFx7vxJDPk6Rah74qM/24azVDaDiEJsNVtYskAxHd32lQVGqJPGL58XaNqzoPC6mnselmAXRIZibGrqXkuUxyd65PLnjuUqcqLhz85SKE1pbFmeqoNPL40m+QK2bm06uvfu299V9InXntJosWDuozGDt2YF1h4Uo+cxpjO+HNJjIg0gRyU2YQASDLQYqrn7T0a5SA="
+         "config": "Encrypted file"
      
 },
 {
         //server-2
-      "config": "52d31W4/esOhPK00aOX2KKfjEE0JoV870q1hJRmbZeNcQzCHegyxgdMgXgENQOwBj2XqUOVQn1soqkiCmnEf92saTfeXEcjUo06m1MUeXFyKvObC0mVBg/4Tbd+LsohMJ6pRAnGwmOtbiw2Mvra80cmy6PaG+V1ic+baJ6MG1kvWEcpduNDgBPf5MIFfmlqg4fukb7mB2EgOS8DKqRd8TpOU2fzeRKSVlIL4Y3QuD9lEtEiPid4wxv1kZj7bxpFByW1OTPPeBfld5aYPr2cjV2S4vnMr9yMpSYlkTW6/z42reXy3C61npX5LbgzlhYSbIoeJ2/sxxaNZ6L35eCAjG3xZXuHoHPzCB0Z/ZBtf+Usvm6q47++AdNODQj7O2ZIwDKbdjwCsw2q+ink71YQkiTKIFze82nwSDA+lE2M3g67pWMCAOP5cTufTP470m553o5kVg2EI+9E="
-      
+         "config": "Encrypted file"
       },
 
-{
-        //server-3
-      "config": "52d31W4/esOhPK00aOX2KKfjEE0JoV870q1hJRmbZeNcQzCHegyxgdMgXgENQOwBj2XqUOVQn1soqkiCmnEf92saTfeXEcjUo06m1MUeXFyKvObC0mVBg/4Tbd+LsohMJ6pRAnGwmOtbiw2Mvra80cmy6PaG+V1ic+baJ6MG1kvWEcpduNDgBPf5MIFfmlqg4fukb7mB2EgOS8DKqRd8TpOU2fzeRKSVlIL4Y3QuD9lEtEiPid4wxv1kZj7bxpFByW1OTPPeBfld5aYPr2cjV2S4vnMr9yMpSYlkTW6/z42reXy3C61npX5LbgzlhYSbIoeJ2/sxxaNZ6L35eCAjG3xZXuHoHPzCB0Z/ZBtf+Usvm6q47++AdNODQj7O2ZIwDKbdjwCsw2q+ink71YQkiTKIFze82nwSDA+lE2M3g67pWMCAOP5cTufTP470m553o5kVg2EI+9E="
       
+      {
+        //server-3
+         "config": "Encrypted file"
       }
       
 
@@ -27,11 +28,11 @@
 
 
 
-"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်...",
+"dtac": "If you use a Dtac SIM, you don't need to buy pro",
 
-"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်...",
+"true": "If you use a True SIM, you don't need to buy pro",
 
-"ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAis ဆင်းမ်ဆိုရင်..."
+"ais": "If you use Ais SIM, you need to buy both packages below\n*777*7067# 31฿\n*777*885# 59฿ \n \nAfter both are buy\n • Select the AisPlay file and use it to connect"
 
 
 
