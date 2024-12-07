@@ -1,32 +1,34 @@
 {
-"Reward": "ca-app-pub-3940256099942544/5224354917",
-"Inter": "ca-app-pub-8283881532539011/3706824991",
-"version": 2,
-"message": "What's new \nAdded new server",
+
+"version": 18,
+"message": "What's new \nUpdated new server FREE",
 
 "files": [
 
 {
-         //server-1
-         "config": "w1nreLjD4ovlIxwjMNuzrJJKz77g9DM9L7Be5XWZYbw4X+HxdRrUaKEVXmIG71xucoSHYy+gLhNsbxRThGrG5lHXescX97xGbfuAbTIKBW57BbmWzGqL+/MiBjA8BDJWv/oDoGMKfiJYrFBWI3l/5XqZ9stO+Rvf8ybjxbiO6xCyMtKCT33bVdegkp1fxYTdjctAPO1V1u1QYDNxMoKQWfp1N4sZwEhKE2i047ZQsuuj43dvPqHBiOnDFL/ZFIbMyNfYGd8YJqtgL4KWAeWlZwLtSMbSOM4R5hepAVgTWQZDSWGKkqxJq7ycbtE9O3CB661RB6qeF4JVZO4Em+uH8K38WR3rqiGOMNVWfkxmtbZMzSTl7lNkziweDezwfBRI1E9TJMxAzjsXkJ0zxs9H3g06Wt79veTHnSaH+h3oMLpuJwHRBtOMyriBFjVL48FDj+I8Ae0EGOs="
-     
+         //server-free1
+         "config": "vyBq9swTsPIF6yvenxjt0OrJgiIU5+ohzcRQ7+onwxV0DT6mFzxEibc1A6iiDifFUytLSOTepcr4DJhG9yjko7+icSt5n8+bYZ61KwDKfPEzRF8pcvoTn6KDDJXwnjdXI5jjy8dDN4agq8W9FSQH6FAkjh0Xdq11BWGNTtJ3oqxiKSVzCgDl8tGlSqDxEwL1TnvJjoRO+kCj5hzYDXfyNTZ0wmpzowekb+Aw5ISGme2wNZYNBsE3fNEhXyIXpHMfFQnoRtFnbbOwVTJgaM/AP0WZ05m6jaE/QIAUJmXI3ZJa/ynzmo3YMrGoGwPzKsk0Ncg3C3wO3cPxeBgQmu8eAzc7t9Yc5Ia+QN5GprZqrsw/yUxJQ0y0kto2uW5Ga0hxy9liF9JOo8WuZNiQRoy05ujF4n877D7g8/tOD6l0RcDoBj0wALimLecArs+urwTWQNFVjM1DmhSn"
 },
-{
-        //server-2
-      "config": "w1nreLjD4ovlIxwjMNuzrJJKz77g9DM9L7Be5XWZYbw4X+HxdRrUaKEVXmIG71xucoSHYy+gLhNsbxRThGrG5lHXescX97xGbfuAbTIKBW57BbmWzGqL+/MiBjA8BDJWv/oDoGMKfiJYrFBWI3l/5XqZ9stO+Rvf8ybjxbiO6xCyMtKCT33bVdegkp1fxYTdjctAPO1V1u1QYDNxMoKQWfp1N4sZwEhKE2i047ZQsuuj43dvPqHBiOnDFL/ZFIbMyNfYGd8YJqtgL4KWAeWlZwLtSMbSOM4R5hepAVgTWQZDSWGKkqxJq7ycbtE9O3CB661RB6qeF4JVZO4Em+uH8K38WR3rqiGOMNVWfkxmtbZMzSTl7lNkziweDezwfBRI1E9TJMxAzjsXkJ0zxs9H3g06Wt79veTHnSaH+h3oMLpuJwHRBtOMyriBFjVL48FDj+I8Ae0EGOs="
-      
-      }
-      
+         {
+         //server-free1
+         "config": "vyBq9swTsPIF6yvenxjt0OrJgiIU5+ohzcRQ7+onwxV0DT6mFzxEibc1A6iiDifFUytLSOTepcr4DJhG9yjko7+icSt5n8+bYZ61KwDKfPEzRF8pcvoTn6KDDJXwnjdXI5jjy8dDN4agq8W9FSQH6FAkjh0Xdq11BWGNTtJ3oqxiKSVzCgDl8tGlSqDxEwL1TnvJjoRO+kCj5hzYDXfyNTZ0wmpzowekb+Aw5ISGme2wNZYNBsE3fNEhXyIXpHMfFQnoRtFnbbOwVTJgaM/AP0WZ05m6jaE/QIAUJmXI3ZJa/ynzmo3YMrGoGwPzKsk0Ncg3C3wO3cPxeBgQmu8eAzc7t9Yc5Ia+QN5GprZqrsw/yUxJQ0y0kto2uW5Ga0hxy9liF9JOo8WuZNiQRoy05ujF4n877D7g8/tOD6l0RcDoBj0wALimLecArs+urwTWQNFVjM1DmhSn"
+}
+,
+         {
+         //server-free1
+         "config": "vyBq9swTsPIF6yvenxjt0OrJgiIU5+ohzcRQ7+onwxV0DT6mFzxEibc1A6iiDifFUytLSOTepcr4DJhG9yjko7+icSt5n8+bYZ61KwDKfPEzRF8pcvoTn6KDDJXwnjdXI5jjy8dDN4agq8W9FSQH6FAkjh0Xdq11BWGNTtJ3oqxiKSVzCgDl8tGlSqDxEwL1TnvJjoRO+kCj5hzYDXfyNTZ0wmpzowekb+Aw5ISGme2wNZYNBsE3fNEhXyIXpHMfFQnoRtFnbbOwVTJgaM/AP0WZ05m6jaE/QIAUJmXI3ZJa/ynzmo3YMrGoGwPzKsk0Ncg3C3wO3cPxeBgQmu8eAzc7t9Yc5Ia+QN5GprZqrsw/yUxJQ0y0kto2uW5Ga0hxy9liF9JOo8WuZNiQRoy05ujF4n877D7g8/tOD6l0RcDoBj0wALimLecArs+urwTWQNFVjM1DmhSn"
+}
+
 
    ],
 
 
 
-"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်...",
+"dtac": "Dtac ဆင်းမ်သုံးပါက ဘာမှစမတ်စရာမလိုပါ \n• DtacNoPro ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(Dtac က အခုလောလောရှယ် လိုင်းမငြိမ်တာတွေ များပါတယ်)",
 
-"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်...",
+"true": "True ဆင်းမ်သုံးပါက *935*99# နှိပ်ပါ ဖရီးပါ ပိုက်ဆံမကုန်ပါ ပြီးရင် \n • TrueNoPro ဖိုင်ကို ရွေးပြီး ချိတ်ပါ \n \n(ချိတ်မရပါက ဖုန်းဘေ 20ထည့်ပေးပြီး ပြန်ချိတ်ကြည့်ပါ)",
 
-"ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAis ဆင်းမ်ဆိုရင်..."
+"ais": "Ais ဆင်းမ်သုံးပါက ဒီအောက်က ပက်ကေ့နှစ်ခုလုံးကို စမတ်ပေးရပါတယ်\n*777*7067# 31B ကုန်ပါမယ်\n*777*885# 59B ကုန်ပါမယ် \n \nနှစ်ခုလုံး စမတ်ပြီးသွားရင် \n • AisPlay ဖိုင်ကို ရွေးပြီး ချိတ်သုံးပါ \n \n(တခါတလေ ချိတ်မရရင် လေယဥ်ပျံ ဖွင့်ပိတ်လုပ်ပေးပါ)"
 
 
 
